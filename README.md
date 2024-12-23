@@ -1,0 +1,2 @@
+# rustlings
+learn rust
